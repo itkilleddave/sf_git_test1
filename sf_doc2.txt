@@ -1,1 +1,2 @@
 this is sf_doc2
+this is line 2 in doc 2
